@@ -13,6 +13,6 @@ INSTRUCTIONS:
 
 COMMANDS:
 
-- "+" means to add to the number
-- "-" means to take away from the number
-- "|" means to print the number
+- "+" -- add to the number
+- "-" -- take away from the number
+- "|" -- print the number
